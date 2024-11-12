@@ -1,0 +1,23 @@
+[
+    {
+        "date": 1872,
+        "place": "Norway",
+        "creature": "dragon",
+        "description": "fire incident",
+        "danger": 15
+    },
+    {
+        "date": 1932,
+        "place": "Britain",
+        "creature": "dragon",
+        "description": "storm",
+        "danger": 17
+    },
+    {
+        "date": 1773,
+        "place": "France",
+        "creature": "dragon",
+        "description": "castle destruction",
+        "danger": 1
+    }
+]
