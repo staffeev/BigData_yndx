@@ -1,1 +1,1 @@
-04.1/user_session_log.tsv filter=lfs diff=lfs merge=lfs -text
+04.1/user_sessions_log.tsv filter=lfs diff=lfs merge=lfs -text
